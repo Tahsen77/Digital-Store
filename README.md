@@ -1,3 +1,13 @@
+<div align="center">
+
+# Arabic–German Legal Dataset v1
+
+![Language](https://img.shields.io/badge/Language-Arabic%20%7C%20German-blue)
+![Domain](https://img.shields.io/badge/Domain-Legal%20%26%20Governmental-green)
+![AI Ready](https://img.shields.io/badge/AI%20Training-Ready-orange)
+![Version](https://img.shields.io/badge/Version-1.0-red)
+
+</div>
 # Digital-Store
 # Arabic–German Legal Dataset v1  
 High‑accuracy bilingual dataset for training AI and NLP models on Arabic–German legal and governmental terminology.
