@@ -1,24 +1,49 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Download Your File</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Download Your Dataset</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background: #f5f5f5;
+            text-align: center;
+            padding: 50px;
+        }
+        .box {
+            background: white;
+            padding: 40px;
+            border-radius: 12px;
+            max-width: 500px;
+            margin: auto;
+            box-shadow: 0 4px 20px rgba(0,0,0,0.1);
+        }
+        a.button {
+            display: inline-block;
+            background: #007bff;
+            color: white;
+            padding: 15px 25px;
+            border-radius: 8px;
+            text-decoration: none;
+            font-size: 18px;
+            margin-top: 20px;
+        }
+        a.button:hover {
+            background: #0056c7;
+        }
+    </style>
 </head>
-<body style="font-family: Arial, sans-serif; text-align: center; padding-top: 50px;">
+<body>
 
-    <h1>Thank you for your purchase!</h1>
-    <p>Your payment was successful. Click the button below to download your file.</p>
+    <div class="box">
+        <h2>Thank you for your purchase!</h2>
+        <p>Your dataset is ready to download.</p>
 
-    <a href="https://github.com/Tahsen77/Digital-Store/raw/main/Arabic-German%20Legal%20Dataset%20v1.zip" style="
-        background-color: #007bff;
-        color: white;
-        padding: 14px 24px;
-        text-decoration: none;
-        border-radius: 6px;
-        font-size: 20px;
-        display: inline-block;
-        margin-top: 20px;
-    ">Download File</a>
+        <a class="button" href="https://drive.google.com/uc?export=download&id=1i-njiN4UokubVrCOFFn6n3VciWCSt4tV">
+            Download Dataset
+        </a>
+    </div>
 
 </body>
 </html>
