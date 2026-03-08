@@ -18,7 +18,7 @@ The dataset is optimized for:
 ## 📂 Dataset Contents
 The dataset is delivered as a ZIP archive containing:
 
-- Thousands of Arabic–German parallel sentence pairs  
+- 1016 of Arabic–German parallel sentence pairs  
 - Legal, governmental, and administrative terminology  
 - Cleaned, normalized, and standardized formatting  
 - AI‑ready structure suitable for training MT and LLM models  
@@ -65,7 +65,7 @@ To purchase the dataset, please contact:
 You will receive:
 
 1. The USDT payment address  
-2. The exact amount to send  
+2. The exact amount to send  ( 500 $ )
 3. A request for payment confirmation (screenshot)  
 4. A secure download link immediately after verification  
 
