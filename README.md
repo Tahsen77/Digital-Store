@@ -1,4 +1,5 @@
-# Arabic–German Legal Dataset v1  
+# Arabic–German Legal Dataset v1
+# Arabic–German Legal Dataset v2
 High‑quality bilingual corpus for legal, governmental, and administrative NLP applications.
 
 ## 📘 Overview
@@ -18,10 +19,18 @@ The dataset is optimized for:
 ## 📂 Dataset Contents
 The dataset is delivered as a ZIP archive containing:
 
+- Arabic–German Legal Dataset v1
 - 1016 of Arabic–German parallel sentence pairs  
 - Legal, governmental, and administrative terminology  
 - Cleaned, normalized, and standardized formatting  
-- AI‑ready structure suitable for training MT and LLM models  
+- AI‑ready structure suitable for training MT and LLM models
+
+- # Arabic–German Legal Dataset v2
+- 1040 of Arabic–German parallel sentence pairs  
+- Legal, governmental, and administrative terminology  
+- Cleaned, normalized, and standardized formatting  
+- AI‑ready structure suitable for training MT and LLM models
+
 
 All content is structured to ensure maximum consistency and usability in machine learning workflows.
 
@@ -65,7 +74,7 @@ To purchase the dataset, please contact:
 You will receive:
 
 1. The USDT payment address  
-2. The exact amount to send  ( 500 $ )
+2. The exact amount to send  ( 500 $ ) each- if both = ( 800 $ )
 3. A request for payment confirmation (screenshot)  
 4. A secure download link immediately after verification  
 
