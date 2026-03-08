@@ -1,68 +1,122 @@
-# Arabic–German Legal Dataset v1
-High‑accuracy bilingual dataset for Arabic–German legal, governmental, and administrative terminology.
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Arabic–German Legal Dataset v1 | Digital Store</title>
 
-## Overview
-This dataset provides a carefully curated collection of Arabic–German parallel sentences focused on legal, governmental, administrative, and regulatory language.  
-It is designed for researchers, developers, and organizations building:
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background: #f5f5f5;
+            margin: 0;
+            padding: 0;
+        }
+        .container {
+            max-width: 900px;
+            margin: 40px auto;
+            background: white;
+            padding: 40px;
+            border-radius: 12px;
+            box-shadow: 0 4px 20px rgba(0,0,0,0.1);
+        }
+        .banner {
+            background: linear-gradient(135deg, #004aad, #007bff);
+            color: white;
+            padding: 30px;
+            border-radius: 10px;
+            text-align: center;
+            margin-bottom: 30px;
+        }
+        .banner h1 {
+            margin: 0;
+            font-size: 32px;
+        }
+        .banner p {
+            margin: 10px 0 0;
+            font-size: 18px;
+            opacity: 0.9;
+        }
+        .email-box {
+            background: #eef7ff;
+            padding: 15px;
+            border-left: 4px solid #007bff;
+            margin: 20px 0;
+            border-radius: 6px;
+        }
+        .email {
+            font-size: 20px;
+            font-weight: bold;
+            color: #007bff;
+        }
+        .sample-box {
+            background: #fafafa;
+            padding: 20px;
+            border-radius: 8px;
+            border: 1px solid #ddd;
+            margin-bottom: 20px;
+        }
+        .sample-box p {
+            margin: 5px 0;
+            font-family: "Courier New", monospace;
+        }
+    </style>
+</head>
 
-- Machine Translation (MT) systems  
-- Large Language Models (LLMs)  
-- Legal text classifiers  
-- Named Entity Recognition (NER) models  
-- AI assistants for multilingual legal workflows  
+<body>
 
-The dataset is optimized for accuracy, consistency, and domain‑specific terminology.
+    <div class="container">
 
----
+        <div class="banner">
+            <h1>Arabic–German Legal Dataset v1</h1>
+            <p>High‑Quality Parallel Corpus for AI, NLP, and Machine Translation</p>
+        </div>
 
-## Key Features
-- High‑quality Arabic–German parallel data  
-- Legal and governmental terminology with precise translations  
-- Suitable for LLM fine‑tuning and NLP pipelines  
-- Clean formatting and standardized structure  
-- AI‑ready for direct integration into ML workflows  
+        <h3>How to Purchase</h3>
+        <p>
+            To purchase the dataset, please contact the seller directly via email.
+            You will receive the payment address (USDT) and instructions.
+        </p>
 
----
+        <div class="email-box">
+            Contact Email:<br>
+            <span class="email">albsyrthsyn@gmail.com</span>
+        </div>
 
-## File Contents
-The dataset is provided as a ZIP archive containing:
+        <h3>Sample Sentences</h3>
 
-- Parallel Arabic–German text pairs  
-- Legal and administrative terminology  
-- Cleaned and standardized formatting  
+        <div class="sample-box">
+            <p><strong>DE:</strong> Die zuständige Behörde hat den Antrag geprüft und genehmigt.</p>
+            <p><strong>AR:</strong> قامت الجهة المختصة بمراجعة الطلب والموافقة عليه.</p>
+        </div>
 
----
+        <div class="sample-box">
+            <p><strong>DE:</strong> Der Vertrag tritt am ersten Tag des folgenden Monats in Kraft.</p>
+            <p><strong>AR:</strong> يدخل العقد حيز التنفيذ في اليوم الأول من الشهر التالي.</p>
+        </div>
 
-## Use Cases
-- Training bilingual AI models  
-- Improving Arabic↔German translation quality  
-- Legal document automation  
-- Cross‑lingual information retrieval  
-- Governmental and administrative NLP applications  
+        <div class="sample-box">
+            <p><strong>DE:</strong> Der Beschuldigte hat das Recht, einen Anwalt zu konsultieren.</p>
+            <p><strong>AR:</strong> يحق للمتهم استشارة محامٍ.</p>
+        </div>
 
----
+        <h3>What’s Inside?</h3>
+        <ul>
+            <li>Arabic–German parallel sentences</li>
+            <li>Legal, governmental, and administrative terminology</li>
+            <li>Cleaned and standardized formatting</li>
+            <li>AI‑ready structure for MT, LLMs, and NLP models</li>
+        </ul>
 
-## Purchase
-To purchase the dataset, please contact:
+        <h3>Use Cases</h3>
+        <ul>
+            <li>Machine Translation (MT)</li>
+            <li>LLM fine‑tuning</li>
+            <li>Legal text classification</li>
+            <li>NER and multilingual legal assistants</li>
+        </ul>
 
-📧 **Email:** albsyrthsyn@gmail.com
+    </div>
 
-You will receive:
-1. The payment address (USDT)  
-2. The exact amount to send ( 500$ )
-3. A confirmation request (screenshot of the transaction)  
-4. A secure download link after payment is verified  
-
----
-
-## License
-This dataset is licensed for commercial and research use.  
-Redistribution or resale without permission is not allowed.
-
----
-
-## Contact
-For inquiries, custom datasets, or collaboration:
-
-Email: **albsyrthsyn@gmail.com**  
-GitHub: https://github.com/Tahsen77
+</body>
+</html>
