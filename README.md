@@ -36,12 +36,12 @@ Formatted in a parallel structure suitable for AI training:
 **AR:** قامت الجهة المختصة بمراجعة الطلب والموافقة عليه.
 
 ### Example 2  
-**DE:** Der Vertrag tritt am ersten Tag des folgenden Monats in Kraft.  
-**AR:** يدخل العقد حيز التنفيذ في اليوم الأول من الشهر التالي.
+**DE:** Die Auslegung der einschlägigen Rechtsvorschriften erfolgt unter Berücksichtigung der höchstrichterlichen Rechtsprechung sowie der verbindlichen Verwaltungsvorschriften.
+**AR:** تتم تفسير الأحكام القانونية ذات الصلة مع مراعاة الاجتهادات القضائية العليا والتعليمات الإدارية الملزمة.
 
 ### Example 3  
-**DE:** Der Beschuldigte hat das Recht, einen Anwalt zu konsultieren.  
-**AR:** يحق للمتهم استشارة محامٍ.
+**DE:** Jede Partei haftet für Schäden, die aus der Verletzung ihrer gesetzlichen Pflichten entstehen.
+**AR:** تتحمل كل جهة المسؤولية عن الأضرار الناشئة عن إخلالها بواجباتها القانونية.
 
 These examples reflect the dataset’s focus on legal precision, administrative clarity, and bilingual consistency.
 
