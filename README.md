@@ -1,7 +1,5 @@
-===============================================
-   Arabic–German Legal Dataset v1
-   High‑Quality Parallel Corpus for AI & NLP
-===============================================
+Arabic–German Legal Dataset v1
+High‑Quality Parallel Corpus for AI & NLP
 # Arabic–German Legal Dataset v1  
 High‑quality bilingual corpus for legal, governmental, and administrative NLP applications.
 
