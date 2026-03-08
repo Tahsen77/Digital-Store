@@ -1,122 +1,86 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Arabic–German Legal Dataset v1 | Digital Store</title>
+# Arabic–German Legal Dataset v1  
+High‑quality bilingual corpus for legal, governmental, and administrative NLP applications.
 
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            background: #f5f5f5;
-            margin: 0;
-            padding: 0;
-        }
-        .container {
-            max-width: 900px;
-            margin: 40px auto;
-            background: white;
-            padding: 40px;
-            border-radius: 12px;
-            box-shadow: 0 4px 20px rgba(0,0,0,0.1);
-        }
-        .banner {
-            background: linear-gradient(135deg, #004aad, #007bff);
-            color: white;
-            padding: 30px;
-            border-radius: 10px;
-            text-align: center;
-            margin-bottom: 30px;
-        }
-        .banner h1 {
-            margin: 0;
-            font-size: 32px;
-        }
-        .banner p {
-            margin: 10px 0 0;
-            font-size: 18px;
-            opacity: 0.9;
-        }
-        .email-box {
-            background: #eef7ff;
-            padding: 15px;
-            border-left: 4px solid #007bff;
-            margin: 20px 0;
-            border-radius: 6px;
-        }
-        .email {
-            font-size: 20px;
-            font-weight: bold;
-            color: #007bff;
-        }
-        .sample-box {
-            background: #fafafa;
-            padding: 20px;
-            border-radius: 8px;
-            border: 1px solid #ddd;
-            margin-bottom: 20px;
-        }
-        .sample-box p {
-            margin: 5px 0;
-            font-family: "Courier New", monospace;
-        }
-    </style>
-</head>
+## 📘 Overview
+This dataset provides a professionally curated collection of Arabic–German parallel sentences focused on legal, governmental, administrative, and regulatory language. It is designed for researchers, developers, and organizations building multilingual AI systems that require precise terminology and consistent structure.
 
-<body>
+The dataset is optimized for:
 
-    <div class="container">
+- Machine Translation (MT)  
+- Large Language Models (LLMs)  
+- Legal text classification  
+- Named Entity Recognition (NER)  
+- Cross‑lingual information retrieval  
+- Governmental and administrative NLP tools  
 
-        <div class="banner">
-            <h1>Arabic–German Legal Dataset v1</h1>
-            <p>High‑Quality Parallel Corpus for AI, NLP, and Machine Translation</p>
-        </div>
+---
 
-        <h3>How to Purchase</h3>
-        <p>
-            To purchase the dataset, please contact the seller directly via email.
-            You will receive the payment address (USDT) and instructions.
-        </p>
+## 📂 Dataset Contents
+The dataset is delivered as a ZIP archive containing:
 
-        <div class="email-box">
-            Contact Email:<br>
-            <span class="email">albsyrthsyn@gmail.com</span>
-        </div>
+- Thousands of Arabic–German parallel sentence pairs  
+- Legal, governmental, and administrative terminology  
+- Cleaned, normalized, and standardized formatting  
+- AI‑ready structure suitable for training MT and LLM models  
 
-        <h3>Sample Sentences</h3>
+All content is structured to ensure maximum consistency and usability in machine learning workflows.
 
-        <div class="sample-box">
-            <p><strong>DE:</strong> Die zuständige Behörde hat den Antrag geprüft und genehmigt.</p>
-            <p><strong>AR:</strong> قامت الجهة المختصة بمراجعة الطلب والموافقة عليه.</p>
-        </div>
+---
 
-        <div class="sample-box">
-            <p><strong>DE:</strong> Der Vertrag tritt am ersten Tag des folgenden Monats in Kraft.</p>
-            <p><strong>AR:</strong> يدخل العقد حيز التنفيذ في اليوم الأول من الشهر التالي.</p>
-        </div>
+## 🧪 Sample Sentences (Preview)
+Below are real‑style examples demonstrating the type of content included in the dataset.  
+Formatted in a parallel structure suitable for AI training:
 
-        <div class="sample-box">
-            <p><strong>DE:</strong> Der Beschuldigte hat das Recht, einen Anwalt zu konsultieren.</p>
-            <p><strong>AR:</strong> يحق للمتهم استشارة محامٍ.</p>
-        </div>
+### Example 1  
+**DE:** Die zuständige Behörde hat den Antrag geprüft und genehmigt.  
+**AR:** قامت الجهة المختصة بمراجعة الطلب والموافقة عليه.
 
-        <h3>What’s Inside?</h3>
-        <ul>
-            <li>Arabic–German parallel sentences</li>
-            <li>Legal, governmental, and administrative terminology</li>
-            <li>Cleaned and standardized formatting</li>
-            <li>AI‑ready structure for MT, LLMs, and NLP models</li>
-        </ul>
+### Example 2  
+**DE:** Der Vertrag tritt am ersten Tag des folgenden Monats in Kraft.  
+**AR:** يدخل العقد حيز التنفيذ في اليوم الأول من الشهر التالي.
 
-        <h3>Use Cases</h3>
-        <ul>
-            <li>Machine Translation (MT)</li>
-            <li>LLM fine‑tuning</li>
-            <li>Legal text classification</li>
-            <li>NER and multilingual legal assistants</li>
-        </ul>
+### Example 3  
+**DE:** Der Beschuldigte hat das Recht, einen Anwalt zu konsultieren.  
+**AR:** يحق للمتهم استشارة محامٍ.
 
-    </div>
+These examples reflect the dataset’s focus on legal precision, administrative clarity, and bilingual consistency.
 
-</body>
-</html>
+---
+
+## 🎯 Use Cases
+- Training Arabic↔German MT systems  
+- Fine‑tuning LLMs for legal and governmental tasks  
+- Building multilingual legal assistants  
+- Automating document classification and analysis  
+- Enhancing cross‑lingual search and retrieval  
+- Supporting academic and commercial NLP research  
+
+---
+
+## 💳 Purchase Information
+To purchase the dataset, please contact:
+
+📧 **Email:** albsyrthsyn@gmail.com
+
+You will receive:
+
+1. The USDT payment address  
+2. The exact amount to send  
+3. A request for payment confirmation (screenshot)  
+4. A secure download link immediately after verification  
+
+This manual process ensures maximum security and prevents unauthorized access to the dataset.
+
+---
+
+## 📜 License
+The dataset is licensed for **research and commercial use**.  
+Redistribution, resale, or public sharing of the dataset or any part of it is strictly prohibited.
+
+---
+
+## 📞 Contact
+For inquiries, custom datasets, or collaboration opportunities:
+
+- Email: **albsyrthsyn@gmail.com**  
+- GitHub: https://github.com/Tahsen77
