@@ -1,7 +1,7 @@
-╔═══════════════════════════════════════════════════════════════╗
-║                 ARABIC–GERMAN LEGAL DATASET v1                ║
-║     A Curated Legal Parallel Corpus for AI & NLP Models       ║
-╚═══════════════════════════════════════════════════════════════╝
+┌───────────────────────────────────────────────────────────────┐
+│                 ARABIC–GERMAN LEGAL DATASET v1                │
+│       Premium Parallel Corpus for AI, NLP & Legal MT          │
+└───────────────────────────────────────────────────────────────┘
 # Arabic–German Legal Dataset v1  
 High‑quality bilingual corpus for legal, governmental, and administrative NLP applications.
 
