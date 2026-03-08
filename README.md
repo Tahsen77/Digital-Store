@@ -1,19 +1,8 @@
-<div align="center">
-
 # Arabic–German Legal Dataset v1
-
-![Language](https://img.shields.io/badge/Language-Arabic%20%7C%20German-blue)
-![Domain](https://img.shields.io/badge/Domain-Legal%20%26%20Governmental-green)
-![AI Ready](https://img.shields.io/badge/AI%20Training-Ready-orange)
-![Version](https://img.shields.io/badge/Version-1.0-red)
-
-</div>
-# Digital-Store
-# Arabic–German Legal Dataset v1  
-High‑accuracy bilingual dataset for training AI and NLP models on Arabic–German legal and governmental terminology.
+High‑accuracy bilingual dataset for Arabic–German legal, governmental, and administrative terminology.
 
 ## Overview
-This dataset provides a carefully curated collection of **Arabic–German parallel sentences**, focused specifically on **legal, governmental, administrative, and regulatory language**.  
+This dataset provides a carefully curated collection of Arabic–German parallel sentences focused on legal, governmental, administrative, and regulatory language.  
 It is designed for researchers, developers, and organizations building:
 
 - Machine Translation (MT) systems  
@@ -22,23 +11,21 @@ It is designed for researchers, developers, and organizations building:
 - Named Entity Recognition (NER) models  
 - AI assistants for multilingual legal workflows  
 
-The dataset is optimized for **accuracy, consistency, and domain‑specific terminology**, making it suitable for both academic and commercial use.
+The dataset is optimized for accuracy, consistency, and domain‑specific terminology.
 
 ---
 
 ## Key Features
-- **High‑quality Arabic–German parallel data**  
-- **Legal and governmental terminology** with precise translations  
-- Suitable for **LLM fine‑tuning**, **NLP pipelines**, and **translation engines**  
-- Clean formatting and consistent structure  
-- Ready for direct integration into machine learning workflows  
+- High‑quality Arabic–German parallel data  
+- Legal and governmental terminology with precise translations  
+- Suitable for LLM fine‑tuning and NLP pipelines  
+- Clean formatting and standardized structure  
+- AI‑ready for direct integration into ML workflows  
 
 ---
 
 ## File Contents
-The dataset is provided as a ZIP archive:
-
-Inside the archive, you will find:
+The dataset is provided as a ZIP archive containing:
 
 - Parallel Arabic–German text pairs  
 - Legal and administrative terminology  
@@ -55,21 +42,21 @@ Inside the archive, you will find:
 
 ---
 
-## Purchase & Download
-To purchase and download the dataset securely, please visit the official store:
+## Purchase
+To purchase the dataset, please contact:
 
-🔗 **Store Page:**  
-https://tahsen77.github.io/Digital-Store/
+📧 **Email:** albsyrthsyn@gmail.com
 
-💳 **Direct USDT Payment:**  
-https://nowpayments.io/payment/?iid=4652120943
-
-After payment, you will be automatically redirected to the download page.
+You will receive:
+1. The payment address (USDT)  
+2. The exact amount to send ( 500$ )
+3. A confirmation request (screenshot of the transaction)  
+4. A secure download link after payment is verified  
 
 ---
 
 ## License
-This dataset is licensed for **commercial and research use**.  
+This dataset is licensed for commercial and research use.  
 Redistribution or resale without permission is not allowed.
 
 ---
@@ -77,5 +64,5 @@ Redistribution or resale without permission is not allowed.
 ## Contact
 For inquiries, custom datasets, or collaboration:
 
-**Email:** albsyrthsyn@gmail.com  
-**GitHub:** https://github.com/Tahsen77
+Email: **albsyrthsyn@gmail.com**  
+GitHub: https://github.com/Tahsen77
